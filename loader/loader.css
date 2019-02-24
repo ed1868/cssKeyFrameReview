@@ -1,3 +1,14 @@
-body{
-  background-color:red;
+h1{
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.loader {
+  margin: auto;
+  border: 16px solid #bdc3c7;
+  width:120px;
+  height:120px;
+  border-top-color: #1abc9c;
+  border-bottom-color: #3498db;
+  border-radius: 50%; 
 }
